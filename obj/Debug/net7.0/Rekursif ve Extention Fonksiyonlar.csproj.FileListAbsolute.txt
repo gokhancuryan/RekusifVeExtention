@@ -1,0 +1,15 @@
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\bin\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.exe
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\bin\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.deps.json
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\bin\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.runtimeconfig.json
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\bin\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.dll
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\bin\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.pdb
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.AssemblyInfo.cs
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.dll
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\refint\Rekursif ve Extention Fonksiyonlar.dll
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.pdb
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\Rekursif ve Extention Fonksiyonlar.genruntimeconfig.cache
+C:\Users\rg\Desktop\Kodluyoruz\Rekursif ve Extention Fonksiyonlar\obj\Debug\net7.0\ref\Rekursif ve Extention Fonksiyonlar.dll
